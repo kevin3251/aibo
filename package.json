@@ -1,0 +1,21 @@
+{
+  "name": "aibo",
+  "version": "0.0.1",
+  "description": "The motechat bot framework",
+  "main": "index.js",
+  "repository": "https://github.com/kevin3251/aibo.git",
+  "author": "Kevin Chueh <kevinchueh@ypcloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "fastify": "^1.10.0",
+    "fastify-formbody": "^2.0.1",
+    "line-messager": "^0.0.2",
+    "motechat": "^1.2.9",
+    "pino": "^5.2.0",
+    "pino-pretty": "^2.0.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "telegram-messager": "^0.0.1"
+  }
+}
